@@ -7,18 +7,19 @@
 [Liang Yao (姚亮)*](https://1e12leon.top/) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Shengxiang Xu(徐圣翔)*](https://xushengxianggg.github.io/) 
-<img src="assets/HKUST.jpg" alt="Logo" width="15">, &nbsp; &nbsp;
+<img src="assets/SEU.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+
 [Bishun Yao (姚必顺)](https://multimodality.group/author/%E7%8E%8B%E7%BF%8C%E9%AA%8F/) 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-
 [Rui Min (闵锐)]() 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Yongjun Li (李勇俊)]() 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+
 [Chaoqian Ouyang(欧阳超前)]() 
 <img src="assets/SYU.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Shimin Di (邸世民)](https://cs.seu.edu.cn/shimindi/main.htm) 
