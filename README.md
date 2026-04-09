@@ -20,7 +20,7 @@
 [Yongjun Li (李勇俊)]() 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 [Chaoqian Ouyang(欧阳超前)]() 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+<img src="assets/SYU.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Shimin Di (邸世民)](https://cs.seu.edu.cn/shimindi/main.htm) 
 <img src="assets/SEU.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Min-Ling Zhang (张敏灵)]() 
