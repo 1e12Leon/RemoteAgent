@@ -57,6 +57,15 @@ Please Contact yaoliang@hhu.edu.cn
 ## Cite
 If you find this work useful, please cite our papers as:
 ```bibtex
+@misc{yao2026RemoteAgent,
+      title={RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs}, 
+      author={Liang Yao and Shengxiang Xu and Fan Liu and Chuanyi Zhang and Bishun Yao and Rui Min and Yongjun Li and Chaoqian Ouyang and Shimin Di and Min-Ling Zhang},
+      year={2026},
+      eprint={2604.07765},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.07765}, 
+}
 @misc{yao2025RemoteSAM,
       title={RemoteSAM: Towards Segment Anything for Earth Observation}, 
       author={Liang Yao and Fan Liu and Delong Chen and Chuanyi Zhang and Yijun Wang and Ziyun Chen and Wei Xu and Shimin Di and Yuhui Zheng},
